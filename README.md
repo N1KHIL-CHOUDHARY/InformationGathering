@@ -77,7 +77,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### Finding Hosting Company :
-<img width="1617" height="847" alt="479586075-785c5332-534a-4754-85d0-645e2ecb075e" src="https://github.com/user-attachments/assets/3419c66f-6e12-4fe7-9677-e5636dd9520c" />
+<img width="1694" height="840" alt="image" src="https://github.com/user-attachments/assets/7c5d91a9-abd9-49f9-80af-73ed2054a8a5" />
+
 
 ### History of the website :
 <img width="1919" height="922" alt="479588035-3fd65f7b-6a24-41dc-b8b5-f1aee477132a" src="https://github.com/user-attachments/assets/87be68bf-ab41-4d29-8661-c529d7ec62ef" />
