@@ -85,7 +85,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### ping command :
-<img width="735" height="694" alt="479587484-354b4935-5a03-4c5f-8637-b7b749d157a4" src="https://github.com/user-attachments/assets/4920cc03-d192-421b-9ee0-46b06693150f" />
+<img width="702" height="540" alt="image" src="https://github.com/user-attachments/assets/1b76895c-9b5f-4396-a5a0-e4e8fd2309c6" />
 
 ### whois :
 <img width="760" height="742" alt="479588652-79694cd4-c12c-4d63-b313-913e1506a733" src="https://github.com/user-attachments/assets/09b65619-0ca7-440e-b4a5-f8ec6808ffff" />
