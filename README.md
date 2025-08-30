@@ -97,10 +97,10 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="738" height="278" alt="image" src="https://github.com/user-attachments/assets/86c45cd6-23aa-49cf-9769-cef2df3c0bfc" />
 
 ### whatweb :
-<img width="745" height="197" alt="479590853-928a6c89-b160-421c-add3-4dd7bd400aa0" src="https://github.com/user-attachments/assets/09fa27d3-73f2-4874-b009-378154915649" />
+<img width="1901" height="502" alt="image" src="https://github.com/user-attachments/assets/a267a2a2-2ee8-4ede-82f9-a89198362a64" />
 
 ### httprint :
-<img width="630" height="208" alt="479598583-25d1d98e-6ccd-4459-957f-c91ac4edd97e" src="https://github.com/user-attachments/assets/b671f174-01c3-4154-8801-e1b7f21dae74" />
+<img width="551" height="142" alt="image" src="https://github.com/user-attachments/assets/f23e0688-1283-45e1-9862-23118e57ac26" />
 
 ### TCP traceroute :
 <img width="747" height="394" alt="479599153-c957bd67-1b5e-42ba-baee-1fa5332cbb47" src="https://github.com/user-attachments/assets/d80ebeae-a9d1-45b2-b3ec-e2241150a1a2" />
