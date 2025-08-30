@@ -103,10 +103,10 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="551" height="142" alt="image" src="https://github.com/user-attachments/assets/f23e0688-1283-45e1-9862-23118e57ac26" />
 
 ### TCP traceroute :
-<img width="747" height="394" alt="479599153-c957bd67-1b5e-42ba-baee-1fa5332cbb47" src="https://github.com/user-attachments/assets/d80ebeae-a9d1-45b2-b3ec-e2241150a1a2" />
+<img width="773" height="95" alt="image" src="https://github.com/user-attachments/assets/67eb7ebc-3108-47f2-b1b2-8408e6d76553" />
 
 ### UDP traceroute :
-<img width="731" height="527" alt="479599727-7478e1f6-9ed0-4a13-8629-fed1faa85635" src="https://github.com/user-attachments/assets/2780d89c-2653-4b30-b5e9-ff99b4aeb0ee" />
+<img width="666" height="334" alt="image" src="https://github.com/user-attachments/assets/d0e667e8-a61c-4240-b8c6-9c72cd0496de" />
 
 
 ## RESULT:
