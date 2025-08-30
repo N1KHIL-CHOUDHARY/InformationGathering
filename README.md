@@ -94,7 +94,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="700" height="92" alt="image" src="https://github.com/user-attachments/assets/bffc6bbe-fa0b-473f-9580-3a032cf53b20" />
 
 ### nmap :
-<img width="637" height="261" alt="479590448-37659d82-c9f5-47c1-a5bc-4baff004e2db" src="https://github.com/user-attachments/assets/4b89b4df-b5d1-4876-86d2-b8298e257310" />
+<img width="738" height="278" alt="image" src="https://github.com/user-attachments/assets/86c45cd6-23aa-49cf-9769-cef2df3c0bfc" />
 
 ### whatweb :
 <img width="745" height="197" alt="479590853-928a6c89-b160-421c-add3-4dd7bd400aa0" src="https://github.com/user-attachments/assets/09fa27d3-73f2-4874-b009-378154915649" />
