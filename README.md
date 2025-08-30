@@ -88,7 +88,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="702" height="540" alt="image" src="https://github.com/user-attachments/assets/1b76895c-9b5f-4396-a5a0-e4e8fd2309c6" />
 
 ### whois :
-<img width="760" height="742" alt="479588652-79694cd4-c12c-4d63-b313-913e1506a733" src="https://github.com/user-attachments/assets/09b65619-0ca7-440e-b4a5-f8ec6808ffff" />
+<img width="675" height="626" alt="image" src="https://github.com/user-attachments/assets/49ca4aa8-d790-4883-aa77-3b2d9ac3b004" />
 
 ### netcat :
 <img width="665" height="108" alt="479590058-bb93be15-acb6-4473-bc3b-590e015f712c" src="https://github.com/user-attachments/assets/6954ec15-8670-45b8-95a7-24f89e6b55f0" />
