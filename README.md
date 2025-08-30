@@ -91,7 +91,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="675" height="626" alt="image" src="https://github.com/user-attachments/assets/49ca4aa8-d790-4883-aa77-3b2d9ac3b004" />
 
 ### netcat :
-<img width="665" height="108" alt="479590058-bb93be15-acb6-4473-bc3b-590e015f712c" src="https://github.com/user-attachments/assets/6954ec15-8670-45b8-95a7-24f89e6b55f0" />
+<img width="700" height="92" alt="image" src="https://github.com/user-attachments/assets/bffc6bbe-fa0b-473f-9580-3a032cf53b20" />
 
 ### nmap :
 <img width="637" height="261" alt="479590448-37659d82-c9f5-47c1-a5bc-4baff004e2db" src="https://github.com/user-attachments/assets/4b89b4df-b5d1-4876-86d2-b8298e257310" />
